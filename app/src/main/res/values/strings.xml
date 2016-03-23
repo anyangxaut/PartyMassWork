@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">内蒙古党建管理</string>
+
+    <string name="navigation_drawer_open">打开菜单</string>
+    <string name="navigation_drawer_close">关闭菜单</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="login_str">登录</string>
+    <string name="logo_name_str">内蒙古直属机关工委</string>
+    <string name="title_menu_0">内蒙古机关党建</string>
+    <string name="title_menu_1">党建工作考核平台</string>
+    <string name="title_menu_2">文明机关创建</string>
+    <string name="title_menu_3">在线党组织</string>
+    <string name="title_menu_4">电子图书室</string>
+    <string name="title_menu_5">互动咨询平台</string>
+    <string name="title_menu_6">建言献策</string>
+    <string name="title_menu_7">点将台</string>
+    <string name="title_menu_8">在线报名</string>
+    <string name="title_menu_9">发文管理</string>
+    <string name="title_activity_login">用户登录</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">账号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录/注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_password">密码不安全，请您重新设置！</string>
+    <string name="error_incorrect_password">密码错误！</string>
+    <string name="error_field_required">必填选项</string>
+    <string name="title_activity_content_show">ContentShowActivity</string>
+
+</resources>
