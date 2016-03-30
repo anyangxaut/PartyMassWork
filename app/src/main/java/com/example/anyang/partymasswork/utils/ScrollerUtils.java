@@ -7,13 +7,15 @@ import android.view.MotionEvent;
 import android.view.VelocityTracker;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ScrollView;
 import android.widget.Scroller;
 
 /**
  * 解决不同方向的滑动冲突
  * Created by anyang on 2016/3/22.
  */
-public class ScrollerUtils extends ViewGroup {
+public class ScrollerUtils extends ViewGroup
+{
     private static final String TAG = "ScrollerUtils";
 
     private int mChildrenSize;
